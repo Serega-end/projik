@@ -1,0 +1,213 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v1_3 {
+  width: 100%;
+  height: 81px;
+  background: rgba(55, 144, 149, 1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v16_46 {
+  width: 100%;
+  height: 1507px;
+  background: url("../images/v16_46.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: -10px;
+  overflow: hidden;
+}
+.v16_41 {
+  width: 100%;
+  height: 1507px;
+  background: rgba(182,233,244,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+  z-index: -1;
+}
+.v16_60 {
+  width: 654px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 261px;
+  left: 10px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v16_61 {
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 581px;
+  left: 36px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v16_59 {
+  width: 735px;
+  height: 433px;
+  background: url("../images/v16_59.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 114px;
+  left: 685px;
+  border-top-left-radius: 300px;
+  border-top-right-radius: 300px;
+  border-bottom-left-radius: 300px;
+  border-bottom-right-radius: 300px;
+  overflow: hidden;
+}
+.v16_63 {
+  width: 575px;
+  height: 475px;
+  background: url("../images/v16_63.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 850px;
+  left: 89px;
+  border-top-left-radius: 300px;
+  border-top-right-radius: 300px;
+  border-bottom-left-radius: 300px;
+  border-bottom-right-radius: 300px;
+  overflow: hidden;
+}
+.v33_3 {
+  width: 575px;
+  height: 383px;
+  background: url("../images/v33_3.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 0.75;
+  position: absolute;
+  top: 896px;
+  left: 800px;
+  border-top-left-radius: 300px;
+  border-top-right-radius: 300px;
+  border-bottom-left-radius: 300px;
+  border-bottom-right-radius: 300px;
+  overflow: hidden;
+}
+.v1_3 {
+  width: 100%;
+  height: 81px;
+  background: rgba(55, 144, 149, 1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v16_47 {
+  width: 100%;
+  height: 81px;
+  background: rgba(55,144,149,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_5 {
+  width: 113px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 31px;
+  left: 1240px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v1_6 {
+  width: 161px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 27px;
+  left: 870px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v4_27 {
+  width: 161px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 27px;
+  left: 500px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v4_30 {
+  width: 175px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 31px;
+  left: 150px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover.link {
+  color: white;
+  text-decoration: none;
+}
+
+a:active {
+  color: white;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+.v1_13 {
+  width: 100%;
+  height: 81px;
+  background: url("../images/v1_13.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: relative;
+  top: 0px;
+  left: -10px;
+  overflow: hidden;
+  position: fixed;
+  z-index: 1;
+}
